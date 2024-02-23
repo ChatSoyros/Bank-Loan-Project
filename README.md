@@ -352,6 +352,9 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 [DETAILS.pdf](https://github.com/ChatSoyros/Bank-Loan-Project/files/14386875/DETAILS.pdf)
 
+### Link for dashborad on Tableau Public
+https://public.tableau.com/views/BankLoan_17087022775980/OVERVIEW?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 
 
 
