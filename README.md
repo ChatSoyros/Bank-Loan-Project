@@ -322,6 +322,38 @@ GROUP BY  home_ownership
 ORDER BY COUNT(id) DESC
 ```
 
+# DATA VISUALIZATION 
+   (WITH TABLEAU)
+
+
+
+### DASHBOARD 1 : SUMMARY
+
+📊 Explore key metrics like total loan applications, funded amounts, borrower repayments, and performance indicators for 'Good Loans' vs. 'Bad Loans'.
+
+[SUMMARY.pdf](https://github.com/ChatSoyros/Bank-Loan-Project/files/14386667/SUMMARY.pdf)
+
+### DASHBOARD 2 : OVERVIEW
+
+
+- Monthly Trends by Issue Date (Line Chart)
+- Regional Analysis by State (Filled Map)
+- Loan Term Analysis (Donut Chart)
+- Employee Length Analysis (Bar Chart)
+- Loan Purpose Breakdown (Bar Chart)
+- Home Ownership Analysis (Tree Map)
+   
+[OVERVIEW.pdf](https://github.com/ChatSoyros/Bank-Loan-Project/files/14386856/OVERVIEW.pdf)
+
+
+### DASHBOARD 3 : DETAILS
+
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data
+
+[DETAILS.pdf](https://github.com/ChatSoyros/Bank-Loan-Project/files/14386875/DETAILS.pdf)
+
+
+
 
 
 
